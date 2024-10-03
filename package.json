@@ -1,0 +1,17 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "basic MEAN tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Nelson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
